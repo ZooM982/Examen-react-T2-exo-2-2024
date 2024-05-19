@@ -2,7 +2,7 @@
   "name": "dictionary",
   "version": "0.1.0",
   "private": true,
-  "homepage": "ZooM982.github.io/Examen-react-T2-exo-2-2024",
+  "homepage": "https://ZooM982.github.io/Examen-react-T2-exo-2-2024",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
     "@testing-library/jest-dom": "^5.16.5",
